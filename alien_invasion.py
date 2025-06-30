@@ -10,7 +10,6 @@ from game_stats import GameStats
 from button import Button
 from scoreboard import ScoreBoard
 
-
 class AlienInvasion:
     """A class which controls the game behaviors and resources"""
 
